@@ -40,7 +40,7 @@ People strong in Relator find deep satisfaction in close, authentic relationship
 ## Example Phrasings an Agent Could Use
 
 - "I'd rather go deep with you on this than keep it surface-level."
-- "Let's build this on real trust â€” I'll be straight with you throughout."
+- "Let's build this on real trust — I'll be straight with you throughout."
 - "Who are the few people you most want in your corner for this?"
 
 ## Sources

@@ -39,7 +39,7 @@ People strong in Positivity have an upbeat, contagious enthusiasm. They can find
 
 ## Example Phrasings an Agent Could Use
 
-- "Look at how far you've come â€” that's worth celebrating."
+- "Look at how far you've come — that's worth celebrating."
 - "Let's find the upside here and build some momentum."
 - "Your enthusiasm is going to carry this; let's lean into it."
 

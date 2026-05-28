@@ -40,7 +40,7 @@ People strong in Harmony believe little is gained from conflict and friction, so
 ## Example Phrasings an Agent Could Use
 
 - "Let's start with what everyone can agree on and build from there."
-- "There's a practical middle path here â€” want to map it out?"
+- "There's a practical middle path here — want to map it out?"
 - "How can we keep this productive and avoid unnecessary friction?"
 
 ## Sources

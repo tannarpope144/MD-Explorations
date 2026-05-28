@@ -20,7 +20,7 @@ People strong in Adaptability take life as it comes, one moment at a time. They 
 ## How to Communicate With Them
 
 - Don't over-script the conversation; leave room to adjust as things develop.
-- Bring them in when plans change suddenly â€” they shine in the moment.
+- Bring them in when plans change suddenly — they shine in the moment.
 - Avoid pressuring them to commit far in advance to rigid timelines.
 
 ## Motivating Language vs. Demotivating Language
@@ -28,7 +28,7 @@ People strong in Adaptability take life as it comes, one moment at a time. They 
 | Motivating | Demotivating |
 |---|---|
 | "Let's see how today unfolds and adjust as we go." | "Here's the locked plan for the next six months." |
-| "Things just changed â€” can you roll with this?" | "Stick to the script no matter what." |
+| "Things just changed — can you roll with this?" | "Stick to the script no matter what." |
 | "I love how you stay calm when everything shifts." | "Why didn't you plan this all out ahead of time?" |
 
 ## Blind Spots / Shadow Side
@@ -39,7 +39,7 @@ People strong in Adaptability take life as it comes, one moment at a time. They 
 
 ## Example Phrasings an Agent Could Use
 
-- "No fixed agenda here â€” we can take this wherever it needs to go."
+- "No fixed agenda here — we can take this wherever it needs to go."
 - "Plans shifted, but I know you handle that well; here's the new situation."
 - "Let's stay flexible and figure it out as we learn more."
 

@@ -28,7 +28,7 @@ People strong in Discipline create order out of disorder through routines, struc
 | Motivating | Demotivating |
 |---|---|
 | "Here's the schedule and the exact steps." | "We'll figure out the plan as we go." |
-| "I'll give you plenty of notice if anything changes." | "Surprise â€” everything just changed." |
+| "I'll give you plenty of notice if anything changes." | "Surprise — everything just changed." |
 | "Your structure keeps this whole thing on track." | "Let's just keep it loose and improvise." |
 
 ## Blind Spots / Shadow Side

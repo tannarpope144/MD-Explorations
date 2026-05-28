@@ -41,7 +41,7 @@ People strong in Individualization are intrigued by what makes each person uniqu
 
 - "Let's tailor this to how that specific person works best."
 - "What's the unique strength you'd want to put to use here?"
-- "Each of them is different â€” how would you approach each one?"
+- "Each of them is different — how would you approach each one?"
 
 ## Sources
 
