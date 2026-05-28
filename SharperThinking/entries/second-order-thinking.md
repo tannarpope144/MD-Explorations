@@ -37,4 +37,4 @@ asks "what happens if I do X?"; second-order thinking asks "and then what?"
 ## Notes
 The classic failure mode is stopping at the second order when the relevant
 dynamics live at the third or fourth. The discipline isn't "think one more step"
-— it's "keep asking 'and then what?' until you stop getting new information.
+— it's "keep asking 'and then what?' until you stop getting new information."
