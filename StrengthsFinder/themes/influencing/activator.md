@@ -41,7 +41,7 @@ People strong in Activator are eager to get moving. They believe that action is 
 
 - "Here's a step you can take in the next ten minutes."
 - "Let's pilot it small and see what happens."
-- "You don't need permission to begin — just go."
+- "You don't need permission to begin - just go."
 
 ## Sources
 

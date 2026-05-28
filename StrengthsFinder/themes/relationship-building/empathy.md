@@ -20,7 +20,7 @@ People strong in Empathy can feel what others are feeling, almost as if stepping
 ## How to Communicate With Them
 
 - Acknowledge emotions explicitly; don't rush past how things feel.
-- Be authentic — they sense when tone and words don't match.
+- Be authentic - they sense when tone and words don't match.
 - Invite them to name the mood or unspoken concern in a situation.
 
 ## Motivating Language vs. Demotivating Language
@@ -39,7 +39,7 @@ People strong in Empathy can feel what others are feeling, almost as if stepping
 
 ## Example Phrasings an Agent Could Use
 
-- "It sounds like there's some real weight behind this — want to talk through it?"
+- "It sounds like there's some real weight behind this - want to talk through it?"
 - "I sense this is touching something deeper; let's slow down."
 - "You clearly feel what others are going through; how can we honor that here?"
 

@@ -27,7 +27,7 @@ People strong in Arranger excel at managing many moving parts at once and enjoy 
 
 | Motivating | Demotivating |
 |---|---|
-| "Here are all the pieces — figure out the best way to fit them." | "Just follow this exact sequence, no changes." |
+| "Here are all the pieces - figure out the best way to fit them." | "Just follow this exact sequence, no changes." |
 | "Feel free to reshuffle this however works best." | "The plan is locked; don't touch it." |
 | "You're great at juggling all of this at once." | "Only focus on one thing and ignore the rest." |
 
@@ -40,7 +40,7 @@ People strong in Arranger excel at managing many moving parts at once and enjoy 
 ## Example Phrasings an Agent Could Use
 
 - "Let's map out everything in play and find the most efficient setup."
-- "There are a few ways to assemble this — want to compare arrangements?"
+- "There are a few ways to assemble this - want to compare arrangements?"
 - "If priorities shift, we can rearrange the pieces on the fly."
 
 ## Sources

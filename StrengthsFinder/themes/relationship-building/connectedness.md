@@ -29,7 +29,7 @@ People strong in Connectedness sense that there are few coincidences and that al
 |---|---|
 | "Here's how this fits into something bigger." | "Just do it; the reasons don't matter." |
 | "Your work here touches a lot of people." | "This is an isolated, one-off task." |
-| "There may be a deeper purpose in how this unfolded." | "It's all random — don't read into it." |
+| "There may be a deeper purpose in how this unfolded." | "It's all random - don't read into it." |
 
 ## Blind Spots / Shadow Side
 
@@ -40,7 +40,7 @@ People strong in Connectedness sense that there are few coincidences and that al
 ## Example Phrasings an Agent Could Use
 
 - "Let's look at how this choice connects to the people it will affect."
-- "There's a thread running through all of this — here's what I see."
+- "There's a thread running through all of this - here's what I see."
 - "Your part matters because it links to the whole effort."
 
 ## Sources

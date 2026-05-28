@@ -27,7 +27,7 @@ People strong in Focus set goals and use them as a compass to guide their action
 
 | Motivating | Demotivating |
 |---|---|
-| "Here's the goal — everything points toward it." | "Let's just explore a bunch of directions." |
+| "Here's the goal - everything points toward it." | "Let's just explore a bunch of directions." |
 | "What's the one priority that matters most?" | "Add this unrelated thing to your plate too." |
 | "You keep us on track better than anyone." | "It's fine to wander off course for a while." |
 

@@ -40,7 +40,7 @@ People strong in Deliberative take care in their choices and decisions, anticipa
 ## Example Phrasings an Agent Could Use
 
 - "Let's identify the risks before we commit to a path."
-- "Take your time — I'll lay out the trade-offs clearly."
+- "Take your time - I'll lay out the trade-offs clearly."
 - "Here's what could go wrong, and how we'd guard against it."
 
 ## Sources

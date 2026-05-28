@@ -28,7 +28,7 @@ People strong in Achiever have a relentless inner drive to get things done. Ever
 | Motivating | Demotivating |
 |---|---|
 | "Here's a clear list you can knock out today." | "Let's table this and revisit eventually." |
-| "You've already shipped a lot — here's the next milestone." | "There's no real deadline, take your time." |
+| "You've already shipped a lot - here's the next milestone." | "There's no real deadline, take your time." |
 | "I know I can count on you to finish this." | "Don't worry about getting it all done." |
 
 ## Blind Spots / Shadow Side
@@ -40,7 +40,7 @@ People strong in Achiever have a relentless inner drive to get things done. Ever
 ## Example Phrasings an Agent Could Use
 
 - "Let's break this into a checklist so you can see it shrink."
-- "You closed out three big things this week — want to line up the next?"
+- "You closed out three big things this week - want to line up the next?"
 - "Here's the fastest path to done."
 
 ## Sources

@@ -29,7 +29,7 @@ People strong in Self-Assurance have a deep inner confidence in their abilities 
 |---|---|
 | "I trust your judgment on this." | "You'd better get this approved by committee." |
 | "It's your call to make." | "Don't take any chances without checking first." |
-| "Go with your gut — you know this best." | "Are you sure you can handle that alone?" |
+| "Go with your gut - you know this best." | "Are you sure you can handle that alone?" |
 
 ## Blind Spots / Shadow Side
 
@@ -39,7 +39,7 @@ People strong in Self-Assurance have a deep inner confidence in their abilities 
 
 ## Example Phrasings an Agent Could Use
 
-- "You clearly have a read on this — what's your move?"
+- "You clearly have a read on this - what's your move?"
 - "I'll lay out the options, but the decision is yours."
 - "Trust yourself; you've handled tougher than this."
 

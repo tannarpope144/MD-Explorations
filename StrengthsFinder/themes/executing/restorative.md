@@ -27,7 +27,7 @@ People strong in Restorative love to solve problems. They are drawn to figuring 
 
 | Motivating | Demotivating |
 |---|---|
-| "This is broken — can you figure out how to fix it?" | "Don't bother, it's beyond saving." |
+| "This is broken - can you figure out how to fix it?" | "Don't bother, it's beyond saving." |
 | "You're great at turning failing things around." | "Just leave the problems alone." |
 | "Let's dig in and find what's really going wrong." | "We only want good news, ignore the issues." |
 
@@ -40,7 +40,7 @@ People strong in Restorative love to solve problems. They are drawn to figuring 
 ## Example Phrasings an Agent Could Use
 
 - "Let's track down the root cause and fix it properly."
-- "This looks fixable — here's where I'd start."
+- "This looks fixable - here's where I'd start."
 - "I'll diagnose what's failing and get it back on track."
 
 ## Sources

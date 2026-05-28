@@ -41,7 +41,7 @@ People strong in Responsibility feel emotionally committed to what they say they
 
 - "I'll make sure this gets done exactly as promised."
 - "Let's be precise about the commitment so nothing slips."
-- "It's okay to set this one down — you don't have to carry everything."
+- "It's okay to set this one down - you don't have to carry everything."
 
 ## Sources
 

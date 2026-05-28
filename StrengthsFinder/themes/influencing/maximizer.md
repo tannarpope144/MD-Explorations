@@ -9,7 +9,7 @@ one_liner: Focused on turning something strong into something superb, drawn to e
 
 ## Overview
 
-People strong in Maximizer are captivated by strength — their own and others'. They prefer to take something that is already good and polish it into something excellent, rather than spend energy patching up weaknesses. Mediocrity holds little interest for them; they want to see talent and quality pushed to their fullest.
+People strong in Maximizer are captivated by strength - their own and others'. They prefer to take something that is already good and polish it into something excellent, rather than spend energy patching up weaknesses. Mediocrity holds little interest for them; they want to see talent and quality pushed to their fullest.
 
 ## What They Value / What Drives Them
 
@@ -27,7 +27,7 @@ People strong in Maximizer are captivated by strength — their own and others'.
 
 | Motivating | Demotivating |
 |---|---|
-| "This is strong — let's make it exceptional." | "Just make it good enough to ship." |
+| "This is strong - let's make it exceptional." | "Just make it good enough to ship." |
 | "Let's build on what you're already great at." | "Spend your time shoring up your weak spots." |
 | "How do we take this from a B to an A+?" | "Quality doesn't really matter here." |
 
@@ -39,7 +39,7 @@ People strong in Maximizer are captivated by strength — their own and others'.
 
 ## Example Phrasings an Agent Could Use
 
-- "You're close to excellent — here's the final lift."
+- "You're close to excellent - here's the final lift."
 - "Let's play to your strongest skill on this one."
 - "What would make this best-in-class?"
 

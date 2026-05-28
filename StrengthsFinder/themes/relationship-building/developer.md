@@ -41,7 +41,7 @@ People strong in Developer recognize and cultivate the potential in others. They
 
 - "Let's set a small next step so you can see them progress."
 - "Here's a way to turn this into a growth moment for your team."
-- "You're clearly invested in helping them improve — here's how to do more of it."
+- "You're clearly invested in helping them improve - here's how to do more of it."
 
 ## Sources
 

@@ -19,7 +19,7 @@ People strong in Command have a natural presence that lets them take control of 
 
 ## How to Communicate With Them
 
-- Be straightforward and say exactly what you mean — no hedging or sugarcoating.
+- Be straightforward and say exactly what you mean - no hedging or sugarcoating.
 - Stand your ground if you disagree; they respect strength and honesty.
 - Give them a clear lane to lead and a real decision to own.
 
@@ -27,7 +27,7 @@ People strong in Command have a natural presence that lets them take control of 
 
 | Motivating | Demotivating |
 |---|---|
-| "Here's the situation — you call it." | "Let's soften this so no one's uncomfortable." |
+| "Here's the situation - you call it." | "Let's soften this so no one's uncomfortable." |
 | "Tell me straight what you think." | "Maybe we shouldn't rock the boat." |
 | "Take the lead and set the direction." | "We need to run this by several more people." |
 
@@ -40,7 +40,7 @@ People strong in Command have a natural presence that lets them take control of 
 ## Example Phrasings an Agent Could Use
 
 - "Let's name the real issue and deal with it directly."
-- "You're the one to make this call — what's your decision?"
+- "You're the one to make this call - what's your decision?"
 - "I'll give it to you straight, no spin."
 
 ## Sources

@@ -9,7 +9,7 @@ one_liner: Measures progress against others and is energized by winning, treatin
 
 ## Overview
 
-People strong in Competition gauge their performance by comparing it to others. Doing well is not enough for them — they want to do better than the people around them, and winning is what makes the effort feel worthwhile. A clear scoreboard, a rival, or a ranking sharpens their focus and lifts their performance.
+People strong in Competition gauge their performance by comparing it to others. Doing well is not enough for them - they want to do better than the people around them, and winning is what makes the effort feel worthwhile. A clear scoreboard, a rival, or a ranking sharpens their focus and lifts their performance.
 
 ## What They Value / What Drives Them
 
@@ -27,7 +27,7 @@ People strong in Competition gauge their performance by comparing it to others. 
 
 | Motivating | Demotivating |
 |---|---|
-| "You're in second — here's how to take the lead." | "It's not about winning, just participate." |
+| "You're in second - here's how to take the lead." | "It's not about winning, just participate." |
 | "Let's beat last quarter's record." | "Everyone gets the same outcome regardless." |
 | "How do we come out on top here?" | "There's no real way to measure this." |
 
@@ -41,7 +41,7 @@ People strong in Competition gauge their performance by comparing it to others. 
 
 - "Here's the benchmark to beat."
 - "Let's see if we can top that number this time."
-- "You're ahead — want to widen the lead?"
+- "You're ahead - want to widen the lead?"
 
 ## Sources
 
