@@ -27,7 +27,7 @@ People strong in Focus set goals and use them as a compass to guide their action
 
 | Motivating | Demotivating |
 |---|---|
-| "Here's the goal — everything points toward it." | "Let's just explore a bunch of directions." |
+| "Here's the goal â€” everything points toward it." | "Let's just explore a bunch of directions." |
 | "What's the one priority that matters most?" | "Add this unrelated thing to your plate too." |
 | "You keep us on track better than anyone." | "It's fine to wander off course for a while." |
 
@@ -45,5 +45,5 @@ People strong in Focus set goals and use them as a compass to guide their action
 
 ## Sources
 
-- Gallup, CliftonStrengths "Focus" theme: https://www.gallup.com/cliftonstrengths/en/252367/focus-theme.aspx
-- Gallup, Four Domains of CliftonStrengths: https://www.gallup.com/cliftonstrengths/en/253736/cliftonstrengths-domains.aspx
+- Gallup, CliftonStrengths official theme materials: https://www.gallup.com/cliftonstrengths/
+- Descriptions are original wording, faithful to the official theme meaning (not reproduced from Gallup's copyrighted text).

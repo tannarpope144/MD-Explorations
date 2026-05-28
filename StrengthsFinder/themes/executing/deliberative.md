@@ -40,10 +40,10 @@ People strong in Deliberative take care in their choices and decisions, anticipa
 ## Example Phrasings an Agent Could Use
 
 - "Let's identify the risks before we commit to a path."
-- "Take your time — I'll lay out the trade-offs clearly."
+- "Take your time â€” I'll lay out the trade-offs clearly."
 - "Here's what could go wrong, and how we'd guard against it."
 
 ## Sources
 
-- Gallup, CliftonStrengths "Deliberative" theme: https://www.gallup.com/cliftonstrengths/en/252305/deliberative-theme.aspx
-- Gallup, Four Domains of CliftonStrengths: https://www.gallup.com/cliftonstrengths/en/253736/cliftonstrengths-domains.aspx
+- Gallup, CliftonStrengths official theme materials: https://www.gallup.com/cliftonstrengths/
+- Descriptions are original wording, faithful to the official theme meaning (not reproduced from Gallup's copyrighted text).

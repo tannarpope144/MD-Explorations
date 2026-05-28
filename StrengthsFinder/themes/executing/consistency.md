@@ -45,5 +45,5 @@ People strong in Consistency believe deeply that everyone deserves to be treated
 
 ## Sources
 
-- Gallup, CliftonStrengths "Consistency" theme: https://www.gallup.com/cliftonstrengths/en/252259/consistency-theme.aspx
-- Gallup, Four Domains of CliftonStrengths: https://www.gallup.com/cliftonstrengths/en/253736/cliftonstrengths-domains.aspx
+- Gallup, CliftonStrengths official theme materials: https://www.gallup.com/cliftonstrengths/
+- Descriptions are original wording, faithful to the official theme meaning (not reproduced from Gallup's copyrighted text).

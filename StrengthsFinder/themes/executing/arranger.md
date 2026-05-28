@@ -27,7 +27,7 @@ People strong in Arranger excel at managing many moving parts at once and enjoy 
 
 | Motivating | Demotivating |
 |---|---|
-| "Here are all the pieces — figure out the best way to fit them." | "Just follow this exact sequence, no changes." |
+| "Here are all the pieces â€” figure out the best way to fit them." | "Just follow this exact sequence, no changes." |
 | "Feel free to reshuffle this however works best." | "The plan is locked; don't touch it." |
 | "You're great at juggling all of this at once." | "Only focus on one thing and ignore the rest." |
 
@@ -40,10 +40,10 @@ People strong in Arranger excel at managing many moving parts at once and enjoy 
 ## Example Phrasings an Agent Could Use
 
 - "Let's map out everything in play and find the most efficient setup."
-- "There are a few ways to assemble this — want to compare arrangements?"
+- "There are a few ways to assemble this â€” want to compare arrangements?"
 - "If priorities shift, we can rearrange the pieces on the fly."
 
 ## Sources
 
-- Gallup, CliftonStrengths "Arranger" theme: https://www.gallup.com/cliftonstrengths/en/252161/arranger-theme.aspx
-- Gallup, Four Domains of CliftonStrengths: https://www.gallup.com/cliftonstrengths/en/253736/cliftonstrengths-domains.aspx
+- Gallup, CliftonStrengths official theme materials: https://www.gallup.com/cliftonstrengths/
+- Descriptions are original wording, faithful to the official theme meaning (not reproduced from Gallup's copyrighted text).

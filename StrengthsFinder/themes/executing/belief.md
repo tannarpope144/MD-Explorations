@@ -45,5 +45,5 @@ People strong in Belief hold a set of deep, stable values that shape everything 
 
 ## Sources
 
-- Gallup, CliftonStrengths "Belief" theme: https://www.gallup.com/cliftonstrengths/en/252223/belief-theme.aspx
-- Gallup, Four Domains of CliftonStrengths: https://www.gallup.com/cliftonstrengths/en/253736/cliftonstrengths-domains.aspx
+- Gallup, CliftonStrengths official theme materials: https://www.gallup.com/cliftonstrengths/
+- Descriptions are original wording, faithful to the official theme meaning (not reproduced from Gallup's copyrighted text).

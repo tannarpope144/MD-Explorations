@@ -41,9 +41,9 @@ People strong in Responsibility feel emotionally committed to what they say they
 
 - "I'll make sure this gets done exactly as promised."
 - "Let's be precise about the commitment so nothing slips."
-- "It's okay to set this one down — you don't have to carry everything."
+- "It's okay to set this one down â€” you don't have to carry everything."
 
 ## Sources
 
-- Gallup, CliftonStrengths "Responsibility" theme: https://www.gallup.com/cliftonstrengths/en/252393/responsibility-theme.aspx
-- Gallup, Four Domains of CliftonStrengths: https://www.gallup.com/cliftonstrengths/en/253736/cliftonstrengths-domains.aspx
+- Gallup, CliftonStrengths official theme materials: https://www.gallup.com/cliftonstrengths/
+- Descriptions are original wording, faithful to the official theme meaning (not reproduced from Gallup's copyrighted text).

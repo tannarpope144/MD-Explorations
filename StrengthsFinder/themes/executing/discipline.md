@@ -28,7 +28,7 @@ People strong in Discipline create order out of disorder through routines, struc
 | Motivating | Demotivating |
 |---|---|
 | "Here's the schedule and the exact steps." | "We'll figure out the plan as we go." |
-| "I'll give you plenty of notice if anything changes." | "Surprise — everything just changed." |
+| "I'll give you plenty of notice if anything changes." | "Surprise â€” everything just changed." |
 | "Your structure keeps this whole thing on track." | "Let's just keep it loose and improvise." |
 
 ## Blind Spots / Shadow Side
@@ -45,5 +45,5 @@ People strong in Discipline create order out of disorder through routines, struc
 
 ## Sources
 
-- Gallup, CliftonStrengths "Discipline" theme: https://www.gallup.com/cliftonstrengths/en/252331/discipline-theme.aspx
-- Gallup, Four Domains of CliftonStrengths: https://www.gallup.com/cliftonstrengths/en/253736/cliftonstrengths-domains.aspx
+- Gallup, CliftonStrengths official theme materials: https://www.gallup.com/cliftonstrengths/
+- Descriptions are original wording, faithful to the official theme meaning (not reproduced from Gallup's copyrighted text).
